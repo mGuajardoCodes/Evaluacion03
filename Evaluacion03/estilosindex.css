@@ -1,0 +1,23 @@
+﻿.header{
+    width:100%;
+    height:50px;
+    background-color:beige;
+}
+.footer {
+    width: 100%;
+    height: 50px;
+    background-color: dimgray;
+}
+.centro {
+    margin:0px;
+    width: 100%;
+    height: auto;
+    background-color: bisque;
+}
+.folder {
+    height: auto;
+    width: auto;
+    padding-top: 60px;
+    padding-bottom: 60px;
+    text-align: center;
+}
