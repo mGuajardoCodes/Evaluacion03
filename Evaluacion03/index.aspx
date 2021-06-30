@@ -9,6 +9,7 @@
     Contraseña:<input type="password" name="txtClave" id="txtClave" /><br />
     Repetir contraseña:<input type="password" name="txtRClave" id="txtRClave" /><br />
     Tipo usuario 
+    //aaaaaaa
     <input type="radio" name="tipo" id="admin" /> administrador 
     <input type="radio" name="tipo" id="vendedor" /> vendedor
     <input type="radio" name="tipo" id="cliente" />  cliente

@@ -13,6 +13,7 @@ namespace Evaluacion03.Clases
         private int precio;
         private int calificacion;
         private Usuario vendedor;
+        
 
         public Producto()
         {
