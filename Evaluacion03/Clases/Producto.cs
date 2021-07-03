@@ -12,7 +12,7 @@ namespace Evaluacion03.Clases
         private string descripcion;
         private int precio;
         private int calificacion;
-        private Usuario vendedor;
+        private string userEmail;
         
 
         public Producto()
@@ -24,7 +24,7 @@ namespace Evaluacion03.Clases
         public string Descripcion { get => descripcion; set => descripcion = value; }
         public int Precio { get => precio; set => precio = value; }
         public int Calificacion { get => calificacion; set => calificacion = value; }
-        public Usuario Vendedor { get => vendedor; set => vendedor = value; }
+        public string UserEmail { get => userEmail; set => userEmail = value; }
     }
 
 
